@@ -38,8 +38,6 @@ Durante a formação, o aprendizado é consolidado através de:
 
 ## Tópicos Estudados
 
-> Ajuste os checkboxes conforme avança no curso.
-
 - [ ] Estrutura básica de páginas web
 - [ ] Funcionamento das tags HTML
 - [ ] Elementos semânticos
